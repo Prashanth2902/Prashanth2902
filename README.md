@@ -19,7 +19,7 @@
 
 ## 🧠 Fun Facts
 🎯 Once ranked **Top 100 Worldwide** on an **Aim Lab** precision task — muscle memory meets milliseconds.  
-⚔️ **Ana main** in Overwatch — I heal, I snipe, I carry… sometimes all at once. 
+⚔️ **Ana main** in Overwatch — I heal, I snipe, I carry… sometimes all at once.  
 🎮 FPS titles I live on: Counter Strike, Apex Legends, Overwatch and Marvel Rivals.  
 🧩 I believe perfect flicks and clean code both come from rhythm and focus.  
 ⚽ I love Watching or playing **football**, for *SIUUUU*  
