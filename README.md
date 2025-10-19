@@ -3,17 +3,25 @@
 🎓 Graduate Student at **Northeastern University**, Boston  
 🎓 Undergraduate Student at **National Institute of Technology, Tiruchirappali**, India  
 💻 Former **Software Developer at Ola Electric**  
-🚀 Passionate about **Software Developement** 
+🚀 Passionate about **Software Developement**  
 🌱 Always exploring how tech can drive smarter mobility and sustainable innovation  
 
 ---
 
 ## 🧠 Tech Stack
-**Languages:** Kotlin • Java • Python • C++  
-**Frameworks:** Android SDK • Jetpack Compose • Spring Boot  
-**Tools & Platforms:** Git • Firebase • Docker • Retrofit • MQTT  
-**Databases:** SQLite • Room • MySQL  
-**Concepts:** OOP • Data Structures & Algorithms • REST APIs  
+
+**Languages:** Kotlin • Java • Python • C/C++ • SQL • JavaScript • HTML/CSS  
+
+**Mobile & Android:** Android Jetpack (Room, LiveData, ViewModel) • Retrofit • OkHttp • Hilt/Dagger • Coroutines • Protobuf • LeakCanary  
+
+**Frameworks & Libraries:** Flask • Django • Express.js • Node.js • React.js • gRPC  
+
+**Data & ML Tools:** pandas • NumPy • Matplotlib • Scikit-learn  
+
+**Performance Tools:** Android Profiler • Perfetto • Eclipse MAT • Systrace  
+
+**Developer Tools:** Git • Android Studio • IntelliJ IDEA • Postman • Gradle • Jira • Figma
+
 
 ---
 
