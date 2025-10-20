@@ -50,6 +50,6 @@
 ---
 
 ## 🤝 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/prashanth-prabhakar-25a68b1a5)   
+Linkedin -> [LinkedIn](https://www.linkedin.com/in/prashanth-prabhakar-25a68b1a5)   
 
 Email -> cbeprashanth@gmail.com
