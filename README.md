@@ -49,17 +49,23 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prashanthprabhakar&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthprabhakar&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=prashanthprabhakar&theme=radical&hide_border=true)
+
+---
+
 ## 🤝 Connect With Me
 
 Linkedin -> [LinkedIn](https://www.linkedin.com/in/prashanth-prabhakar-25a68b1a5)   
 
 Email -> cbeprashanth@gmail.com
 
----
 
-## 🤝 Github Stats
-
-![Prashanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashanth2902&show_icons=true&theme=radical)
 
 
 
