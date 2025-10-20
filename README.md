@@ -57,4 +57,9 @@ Email -> cbeprashanth@gmail.com
 
 ---
 
+## 🤝 Github Stats
+
+![Prashanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashanth2902&show_icons=true&theme=radical)
+
+
 
