@@ -28,6 +28,13 @@
 
 **Developer Tools:** Git • Android Studio • IntelliJ IDEA • Postman • Gradle • Jira • Figma
 
+---
+
+## 🤝 Connect With Me
+
+Linkedin -> [LinkedIn](https://www.linkedin.com/in/prashanth-prabhakar-25a68b1a5)   
+
+Email -> cbeprashanth@gmail.com
 
 ---
 
@@ -60,12 +67,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Prashanth2902&theme=radical&hide_border=true)
 
 ---
-
-## 🤝 Connect With Me
-
-Linkedin -> [LinkedIn](https://www.linkedin.com/in/prashanth-prabhakar-25a68b1a5)   
-
-Email -> cbeprashanth@gmail.com
 
 
 
