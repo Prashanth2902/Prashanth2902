@@ -51,6 +51,8 @@
 
 ## 📊 GitHub Stats
 
+![Prashanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashanth2902&show_icons=true&theme=radical)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prashanth2902&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanth2902&layout=compact&theme=radical)
