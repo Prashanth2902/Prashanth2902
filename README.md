@@ -38,11 +38,7 @@ Email -> cbeprashanth@gmail.com
 
 ---
 
-## 🧠 Fun Facts
-
-🎯 Once ranked **Top 100 Worldwide** on an **Aim Lab** precision task — muscle memory meets milliseconds  
-
-⚔️ **Ana main** in Overwatch — I heal, I snipe, I carry… sometimes all at once  
+## 🧠 Fun Facts 
 
 🎮 FPS titles I live on: Counter Strike, Apex Legends, Overwatch and Marvel Rivals  
 
