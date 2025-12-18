@@ -69,7 +69,7 @@
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ppprashanth)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cbeprashanth@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-brightgreen?style=for-the-badge&logo=safari)](https://prashanth2902.github.io/Portfolio-Website/)
+[![Website](https://img.shields.io/badge/Website-Live-success?style=flat&logo=google-chrome&logoColor=white)](https://prashanth2902.github.io/Portfolio-Website/)
 
 ---
 
