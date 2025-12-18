@@ -7,6 +7,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prashanth2902&label=Profile%20views&color=0e75b6&style=flat" alt="prasad0411" />
+</p>
+
+---
+
 ## 🧠 Tech Stack
 
 #### Languages
